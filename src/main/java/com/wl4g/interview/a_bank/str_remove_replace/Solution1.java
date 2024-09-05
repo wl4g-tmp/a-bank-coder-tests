@@ -1,4 +1,4 @@
-package com.wl4g.interview.hsbc.str_remove_replace;
+package com.wl4g.interview.a_bank.str_remove_replace;
 
 /**
  * The {@link Solution1}

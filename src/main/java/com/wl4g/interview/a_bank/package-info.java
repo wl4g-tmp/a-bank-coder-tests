@@ -6,4 +6,4 @@
  * @since v1.0
  */
 
-package com.wl4g.interview.hsbc;
+package com.wl4g.interview.a_bank;
